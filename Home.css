@@ -1,0 +1,243 @@
+body {
+    background-color: #fff;
+}
+.search:hover {
+font-size: 1.2em;
+}
+
+nav {
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100px;
+   
+}
+input {
+  margin: 40px 5px 0px 150px;
+  border-style: none;
+  border-radius: 80px;
+  caret-color: red;
+  padding-left: 10px;
+  width: 160px;
+  height: 40px;
+  background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 30px 30px 0px 90px;
+
+}
+li {
+    padding-right: 30px;
+}
+.fa-solid fa-plane {
+    font-size: 1.1em;
+    width: 10px;
+    height: 20px;
+    
+}
+
+.atn {
+    width: 18px;
+    height: 18px;
+    color:  rgb(115, 115, 237);
+}
+.atn:hover {
+ font-size: 1.1em;
+ color:  rgb(115, 115, 237);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+
+nav {
+    display: flex;
+    justify-content:flex-start;
+    margin-right: 50px;
+}
+.yihamisi {
+    color: #635d5d;
+    font-size: 1.2em;
+    margin: 45px 20px 40px 200px;
+
+}
+.yicon {
+    padding: 45px 10px 0px 50px;
+    font-size: 1.1em;
+    color: #635d5d;
+    
+}
+.slides {
+position: relative;
+height: 85vh;
+overflow: hidden;
+background-color: #fff;
+}
+.slides::after
+{
+    content: '';
+    position: relative;
+    inset: 0;
+    z-index: 10;
+    background-color: rgb(0, 0, 0 / 50%);
+}
+.slide {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    animation: cycle 12s 
+    infinite ;
+}
+
+.slide-2 {
+    animation-delay: 4s;
+}
+.slide-3 {
+    animation-delay: 8s;
+   
+}
+.slide-4 {
+    animation-delay: 8s;
+}
+.slide-image {
+  width: 100%;
+  object-fit: cover;
+
+ 
+}
+@keyframes cycle {
+    0% {opacity: 0; }
+    10% { opacity: 1; }
+    20% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+    30% {
+        opacity: 1;
+        transform: scale(1.05);
+    }
+    100% { opacity: 0; }
+}
+
+#orta {
+    display: flex;
+    justify-content:flex-start;
+}
+.tkecid {
+    width: 180px;
+    height: 250px;
+    margin: 100px 0px 0px 100px;
+    position: relative;
+}
+#t {
+    display: block;
+    right: -50px;
+}
+.ekecid {
+    width: 180px;
+    height: 250px;
+    margin: 100px 0px 0px 200px ;
+    position: relative;
+}
+.rkecid {
+    width: 180px;
+    height: 200px;
+    margin: 100px 0px 0px 200px ;
+    position: relative;
+}
+button{
+    position: absolute;
+    top: 140px;
+    right: -50px;
+    width: 150px;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    font-size: 1.5em;
+    font-style: italic;
+    text-align: center;
+}
+.yuxari {
+    color :#635d5d;
+}
+.yuxari:hover {
+    color: rgb(115, 115, 237);
+    font-size: 1.3em;
+}
+.yuxari>a:hover {
+    color: rgb(115, 115, 237);
+    font-size: 1.3em;
+}
+button:hover>a {
+    color:white;
+}
+button:hover{
+    background-color:#149dd7;
+}
+
+.treklamlari {
+    width: 100%;
+    height: 150px;
+    background-color: #f0f0f0;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+.pd {
+    margin: 80px 0px 0px 200px;
+}
+.da {
+    margin: 100px 0px 0px 200px;
+}
+.eyk {
+    margin: 100px 0px 0px 200px;
+}
+.kecidler {
+    width: 98vw;
+    height: 50px;
+    background-color: rgb(38, 38, 241);
+    display: flex;
+    justify-content:space-evenly;
+    color: #fff;
+    font-size: 1.2em;
+    padding-top: 40px;
+}
+
+.fa-solid fa-magnifying-glass {
+    width: 100px;
+    height: 20px;
+    color: #635d5d;
+   }
+ .footer {
+    display: flex;
+    margin-bottom: 80px;
+   }
+.foot:hover {
+    transform: scale(0.95);
+    transition: all 1s;
+}
+.f {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+#ox {
+    position: absolute;
+    top: 3470px;
+    font-size: 2.5em;
+    margin: 200px 0px 0px 50px;
+    color: #149dd7;
+    
+}
+.back {
+    position: relative;
+    font-size: 2em;
+    top: -5px;
+    left: -10px;
+
+}

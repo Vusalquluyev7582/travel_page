@@ -1,0 +1,1146 @@
+body {
+    background-color: #fff;
+}
+
+.search:hover {
+    font-size: 1.2em;
+}
+
+nav {
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100px;
+
+}
+
+input {
+    margin: 40px 5px 0px 150px;
+    border-style: none;
+    border-radius: 80px;
+    caret-color: red;
+    padding-left: 10px;
+    width: 160px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 30px 30px 0px 90px;
+
+}
+
+li {
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 50px;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 50px;
+}
+
+.yihamisi {
+    color: #635d5d;
+    font-size: 1.2em;
+    margin: 45px 20px 40px 200px;
+
+}
+
+.yicon {
+    padding: 45px 10px 0px 50px;
+    font-size: 1.1em;
+    color: #635d5d;
+
+}
+
+.yuxari {
+    color: #635d5d;
+}
+
+.yuxari:hover {
+    color: rgb(115, 115, 237);
+    font-size: 1.3em;
+    outline-style: groove;
+}
+
+h2 {
+    margin-left: 50px;
+    font-size: 1.7em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.country {
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.yaponiya {
+    position: relative;
+    left: 100px;
+}
+
+.yap {
+    position: absolute;
+    width: 566px;
+    height: 320px;
+    left: -4px;
+}
+
+.yap:hover {
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.yap:hover {
+    border: 1px solid gold;
+}
+
+.ya {
+    position: relative;
+    padding-top: 20px;
+    left: -22px;
+    color: white;
+    font-size: 2em;
+}
+
+.çinxq {
+    position: relative;
+    left: 1008px;
+}
+
+.çin {
+    position: absolute;
+    right: 25px;
+    width: 566px;
+    height: 320px;
+}
+
+.çin:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.çi {
+    position: relative;
+    left: -510px;
+    padding-top: 20px;
+    color: white;
+}
+
+.country2 {
+    margin-top: 250px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.c-koreya {
+    position: absolute;
+    left: 49px;
+}
+
+.c-kor {
+    position: relative;
+    width: 374px;
+    height: 270px;
+    margin-left: 55px;
+}
+
+.c-kor:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.c-ko {
+    position: relative;
+    top: -275px;
+    left: 30px;
+    color: white;
+}
+
+.özbəkistan {
+    position: relative;
+    left: 487px;
+
+}
+
+.özb {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.özb:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.öz {
+    position: relative;
+    color: white;
+    left: -18px;
+}
+
+.qırğızıstan {
+    position: relative;
+    top: -99px;
+    margin-left: 879px;
+}
+
+.qır {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.qır:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.qı {
+    position: relative;
+    color: white;
+    top: 22px;
+    left: -22px;
+
+}
+
+.qiteler {
+    width: 70%;
+    height: 100px;
+    margin-top: 165px;
+    display: flex;
+}
+
+.orta {
+    padding: 0px 34.02px 0px 10.05px;
+    font-size: 1.2em;
+    color: #201c1c;
+
+}
+
+.h3 {
+    margin-bottom: 50px;
+
+}
+
+h3:active {
+    border-bottom: 1px solid blue;
+}
+
+.avr {
+    padding: 0px 30px 0px 10px;
+}
+
+.seherlerbir {
+    display: flex;
+    position: relative;
+    top: -15px;
+    margin-bottom: 250px;
+}
+
+.kuala {
+    position: relative;
+    top: 50px;
+    margin-left: 98px;
+}
+
+.kual {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kual:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kua {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.jakarta {
+    position: relative;
+    top: 50px;
+    margin-left: 140px;
+}
+
+.jaka {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.jaka:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.jak {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.siem-reap {
+    position: relative;
+    top: 50px;
+    margin-left: 215px;
+}
+
+.siem {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.siem:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sie {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.agracty {
+    position: relative;
+    top: 50px;
+    margin-left: 188px;
+}
+
+.agra {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.agra:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.agr {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleriki {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 85px;
+}
+
+.nagoya {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+
+.nago {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.nago:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.nag {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.kuching {
+    position: relative;
+    top: 50px;
+    margin-left: 218px;
+}
+
+.kuch {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kuch:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kuc {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.nusa-dua {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+
+.nusa {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.nusa:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.nus {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.kyoto {
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+}
+
+.kyot {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kyot:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kyo {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+
+.seherleruc {
+    display: flex;
+    position: relative;
+    top: -15px;
+    margin-bottom: 250px;
+}
+
+.bentota {
+    position: relative;
+    top: 50px;
+    margin-left: 96px;
+}
+
+.bent {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bent:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ben {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.galle {
+    position: relative;
+    top: 50px;
+    margin-left: 215px;
+}
+
+.gall {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.gall:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.gal {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.coron {
+    position: relative;
+    top: 50px;
+    margin-left: 245px;
+}
+
+.coro {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.coro:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.cor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seoul {
+    position: relative;
+    top: 50px;
+    margin-left: 235px;
+}
+
+.seou {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.seou:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.seo {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerdord {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 85px;
+}
+
+.manila {
+    position: relative;
+    top: 50px;
+    margin-left: 237px;
+}
+
+.mani {
+    position: absolute;
+    width: 267px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.mani:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.man {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.hong-kong {
+    position: relative;
+    top: 50px;
+    margin-left: 220px;
+}
+
+.hong {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.hong:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.hon {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.lombok {
+    position: relative;
+    top: 50px;
+    margin-left: 182px;
+}
+
+.lomb {
+    position: absolute;
+    width: 271px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.lomb:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lom {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.hanoi {
+    position: relative;
+    top: 50px;
+    margin-left: 215px;
+}
+
+.hano {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.hano:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.han {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerbes {
+    display: flex;
+    position: relative;
+    top: -15px;
+    margin-bottom: 250px;
+}
+
+.osaka {
+    position: relative;
+    top: 50px;
+    margin-left: 96px;
+}
+
+.osak {
+    position: absolute;
+    width: 268px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.osak:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.osa {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.beijing {
+    position: relative;
+    top: 50px;
+    margin-left: 230px;
+}
+
+.beij {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.beij:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bei {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.hueee {
+    position: relative;
+    top: 50px;
+    margin-left: 225px;
+}
+
+.huee {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.huee:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.hue {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.jimbaran {
+    position: relative;
+    top: 50px;
+    margin-left: 260px;
+}
+
+.jimb {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.jimb:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.jim {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleralti {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.ubuddd {
+    position: relative;
+    top: 50px;
+    margin-left: 237px;
+}
+
+.ubudd {
+    position: absolute;
+    width: 267px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.ubudd:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ubu {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.phuket {
+    position: relative;
+    top: 50px;
+    margin-left: 235px;
+}
+
+.phuk {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.phuk:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.phu {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.kandy {
+    position: relative;
+    top: 50px;
+    margin-left: 212px;
+}
+
+.kand {
+    position: absolute;
+    width: 273px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kand:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kan {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.bandung {
+    position: relative;
+    top: 50px;
+    margin-left: 235px;
+}
+
+.band {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.band:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ban {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleryeddi {
+    display: flex;
+    position: relative;
+    top: -180px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.yogyakarta {
+    position: relative;
+    top: 50px;
+    margin-left: 235px;
+}
+
+.yogy {
+    position: absolute;
+    width: 268px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.yogy:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.yog {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.negombo {
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+
+.nego {
+    position: absolute;
+    width: 275px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.nego:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.neg {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.busan {
+    position: relative;
+    top: 50px;
+    margin-left: 208px;
+}
+
+.busa {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.busa:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bus {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.anuradhapura {
+    position: relative;
+    top: 50px;
+    margin-left: 235px;
+}
+
+.anur {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.anur:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.anu {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlersekkiz {
+    display: flex;
+    position: relative;
+    top: -250px;
+    left: -80px;
+    margin-bottom: 250px;
+}
+.old-goa {
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+
+.old-g {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.old-g:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.old {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.battambang {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+
+.batt {
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.batt:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bat {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.pattaya-central {
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+
+.patt {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.patt:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pat {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.nha-trang {
+    position: relative;
+    top: 50px;
+    margin-left: 135px;
+}
+
+.nha-t {
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.nha-t:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.nha {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}

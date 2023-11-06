@@ -1,0 +1,1418 @@
+body {
+    background-color: #fff;
+}
+
+.search:hover {
+    font-size: 1.2em;
+}
+
+nav {
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100px;
+
+}
+input {
+    margin: 40px 5px 0px 150px;
+    border-style: none;
+    border-radius: 80px;
+    caret-color: red;
+    padding-left: 10px;
+    width: 160px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 30px 30px 0px 90px;
+
+}
+
+li {
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 50px;
+}
+nav {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 50px;
+}
+
+.yihamisi {
+    color: #635d5d;
+    font-size: 1.2em;
+    margin: 45px 20px 40px 200px;
+
+}
+
+.yicon {
+    padding: 45px 10px 0px 50px;
+    font-size: 1.1em;
+    color: #635d5d;
+
+}
+
+.yuxari {
+    color: #635d5d;
+}
+
+.yuxari:hover {
+    color: rgb(115, 115, 237);
+    font-size: 1.3em;
+    outline-style: groove;
+}
+
+h2 {
+    margin-left: 50px;
+    font-size: 1.7em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.country {
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.amerika {
+    position: relative;
+    left: 100px;
+}
+
+.kanada {
+    position: relative;
+    left: 965px;
+}
+
+.abş {
+    position: absolute;
+    width: 566px;
+    height: 320px;
+    left: -4px;
+}
+
+.abş:hover {
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.abş:hover {
+    border: 1px solid gold;
+}
+
+.ab{
+    position: relative;
+    padding-top: 20px;
+    left: -22px;
+    color: white;
+    font-size: 2em;
+}
+
+.kan {
+    position: absolute;
+    right: 25px;
+    width: 566px;
+    height: 320px;
+}
+
+.kan:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.ka {
+    position: relative;
+    left: -480px;
+    padding-top: 20px;
+    color: white;
+}
+
+.country2 {
+    margin-top: 250px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.meksika {
+    position: absolute;
+    left: 49px;
+}
+.meks {
+    position: relative;
+    width: 374px;
+    height: 270px;
+    margin-left: 55px;
+}
+
+.meks:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.mek {
+    position: relative;
+    top: -265px;
+    left: 30px;
+    color: white;
+}
+.kosta {
+    position: relative;
+    left: 487px;
+
+}
+.kos {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.kos:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+.ko {
+    position: relative;
+    color: white;
+    left: -18px;
+}
+.kuba {
+    position: relative;
+    top: -99px;
+    margin-left: 879px;
+}
+.kub {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.kub:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.ku {
+    position: relative;
+    color: white;
+    top: 22px;
+    left: -22px;
+
+}
+
+.qiteler {
+    width: 70%;
+    height: 100px;
+    margin-top: 165px;
+    display: flex;
+}
+
+.orta {
+    padding: 0px 34.02px 0px 10.05px;
+    font-size: 1.2em;
+    color: #201c1c;
+
+}
+
+.h3 {
+    margin-bottom: 50px;
+
+}
+h3:active {
+    border-bottom: 1px solid blue;
+}
+
+.avr {
+    padding: 0px 30px 0px 10px;
+}
+.seherlerbir {
+    display: flex;
+    position: relative;
+    top: -15px;
+    margin-bottom: 250px;
+}
+
+.new-york{
+    position: relative;
+    top: 50px;
+    margin-left: 98px;
+}
+
+.new-yor {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.new-yor:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.new {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.las-vegas {
+    position: relative;
+    top: 50px;
+    margin-left: 180px;
+}
+
+.las-vega {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.las-vega:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.las {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.key-west {
+    position: relative;
+    top: 50px;
+    margin-left: 180px;
+}
+
+.key-wes {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.key-wes:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.key {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.san-diego {
+    position: relative;
+    top: 50px;
+    margin-left: 183px;
+}
+
+.san-dieg {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.san-dieg:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.san {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleriki {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.mayami {
+    position: relative;
+    top: 50px;
+    margin-left: 239px;
+}
+
+.maya {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.maya:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.may {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.mexiko {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+
+.mexi {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.mexi:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.mex {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.new-orleans {
+    position: relative;
+    top: 50px;
+    margin-left: 218px;
+}
+
+.new-orlean {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.new-orlean:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.new {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.orlando {
+    position: relative;
+    top: 50px;
+    margin-left: 150px;
+}
+
+.orla {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.orla:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.orl {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.seherleruc {
+    display: flex;
+    position: relative;
+    top: -180px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.boston {
+    position: relative;
+    top: 50px;
+    margin-left: 239px;
+}
+.bost {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.bost:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.bos {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.san-francisco {
+    position: relative;
+    top: 50px;
+    margin-left: 225px;
+}
+.san-francisc {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.san-francisc:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.san {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.vancouver {
+    position: relative;
+    top: 50px;
+    margin-left: 150px;
+}
+.vancouve {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.vancouve:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.van {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.guadalajara {
+    position: relative;
+    top: 50px;
+    margin-left: 185px;
+}
+
+.guad {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.guad:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.gua {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerdord {
+    display: flex;
+    position: relative;
+    top: -255px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.niagara-falls {
+    position: relative;
+    top: 50px;
+    margin-left: 239px;
+}
+.niagara-fall {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.niagara-fall:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.nia {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.phoenix{
+    position: relative;
+    top: 50px;
+    margin-left: 155px;
+}
+.phoe{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.phoe:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.pho {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.victoria {
+    position: relative;
+    top: 50px;
+    margin-left: 213px;
+}
+.vict {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.vict:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.vic {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.fort-lauderdale {
+    position: relative;
+    top: 50px;
+    margin-left: 215px;
+}
+
+.fort-lauderdal {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.fort-lauderdal:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.for {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerbes {
+    display: flex;
+    position: relative;
+    top: -330px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.los-angeles {
+    position: relative;
+    top: 50px;
+    margin-left: 239px;
+}
+.los-angele{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.los-angele:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.los {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.tusayan{
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+.tusa{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.tusa:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.tus {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.sedona {
+    position: relative;
+    top: 50px;
+    margin-left: 213px;
+}
+.sedo {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.sedo:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sed {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.atlanta {
+    position: relative;
+    top: 50px;
+    margin-left: 220px;
+}
+
+.atla {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.atla:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.atl {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleralti {
+    display: flex;
+    position: relative;
+    top: -380px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.acapulco {
+    position: relative;
+    top: 50px;
+    margin-left: 239px;
+}
+.acap{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.acap:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.aca {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.merida{
+    position: relative;
+    top: 50px;
+    margin-left: 203px;
+}
+.meri{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.meri:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.mer {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.seattle {
+    position: relative;
+    top: 50px;
+    margin-left: 222px;
+}
+.seat {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.seat:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sea {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.louisville {
+    position: relative;
+    top: 50px;
+    margin-left: 225px;
+}
+.loui {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.loui:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.lou {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleryeddi {
+    display: flex;
+    position: relative;
+    top: -440px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.denali {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.dena{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.dena:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.den {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.washington{
+    position: relative;
+    top: 50px;
+    margin-left: 230px;
+}
+.wash{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+.wash:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.was {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.fairbanks {
+    position: relative;
+    top: 50px;
+    margin-left: 180px;
+}
+.fair {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.fair:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.fai {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.santa-barbara {
+    position: relative;
+    top: 50px;
+    margin-left: 193px;
+}
+.sant {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.sant:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.san {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlersekkiz {
+    display: flex;
+    position: relative;
+    top: -500px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.sarasota {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.sara{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.sara:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sar {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.richmond{
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+.rich{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.rich:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.ric {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.denver {
+    position: relative;
+    top: 50px;
+    margin-left: 192px;
+}
+.denv {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.denv:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.den {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.tampa {
+    position: relative;
+    top: 50px;
+    margin-left: 225px;
+}
+.tamp {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.tamp:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.tam {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerdoqquz {
+    display: flex;
+    position: relative;
+    top: -550px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.toronto {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.toro{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.toro:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.tor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.whistler{
+    position: relative;
+    top: 50px;
+    margin-left: 217px;
+}
+.whis{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.whis:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.whi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.charlotte {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+.char {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.char:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.cha {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.chicago {
+    position: relative;
+    top: 50px;
+    margin-left: 203px;
+}
+.chic {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.chic:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.chi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleron {
+    display: flex;
+    position: relative;
+    top: -600px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.honolulu {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.hono{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.honp:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.hon {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.pensacola{
+    position: relative;
+    top: 50px;
+    margin-left: 204px;
+}
+.pens{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.pens:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.pen {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.kissimmee {
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+}
+.kiss {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.kiss:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.kis {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.baltimore {
+    position: relative;
+    top: 50px;
+    margin-left: 190px;
+}
+.balt {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.balt:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.bal {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleronbir {
+    display: flex;
+    position: relative;
+    top: -650px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.zihuatanejo {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.zihu{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.zihu:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.zih {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.scottsdale{
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+.scot{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.scot:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sco {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.tulum {
+    position: relative;
+    top: 50px;
+    margin-left: 200px;
+}
+.tulu {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.tulu:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.tul {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.san-antonio {
+    position: relative;
+    top: 50px;
+    margin-left: 233px;
+}
+.sanan {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.sanan:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sana {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleroniki {
+    display: flex;
+    position: relative;
+    top: -690px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+.flagstaff {
+    position: relative;
+    top: 50px;
+    margin-left: 238px;
+}
+.flag{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.flag:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.fla {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.savannah{
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+.sava{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.sava:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.sav {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.cozumel {
+    position: relative;
+    top: 50px;
+    margin-left: 203px;
+}
+.cozu {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.cozu:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.coz {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.nashville {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+.nash {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.nash:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.nas {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+
+body {
+    height: 650vh;
+}

@@ -1,0 +1,3043 @@
+body {
+    background-color: #fff;
+}
+
+.search:hover {
+    font-size: 1.2em;
+}
+
+nav {
+    background-color: #f0f0f0;
+    width: 100%;
+    height: 100px;
+
+}
+
+input {
+    margin: 40px 5px 0px 150px;
+    border-style: none;
+    border-radius: 80px;
+    caret-color: red;
+    padding-left: 10px;
+    width: 160px;
+    height: 40px;
+    background-color: aquamarine;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    padding: 30px 30px 0px 90px;
+
+}
+
+li {
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 1.1em;
+}
+
+
+nav {
+    display: flex;
+    justify-content: flex-start;
+    margin-right: 50px;
+}
+
+.yihamisi {
+    color: #635d5d;
+    font-size: 1.2em;
+    margin: 45px 20px 40px 200px;
+
+}
+
+.yicon {
+    padding: 45px 10px 0px 50px;
+    font-size: 1.1em;
+    color: #635d5d;
+
+}
+
+.yuxari {
+    color: #635d5d;
+}
+
+.yuxari:hover {
+    color: rgb(115, 115, 237);
+    font-size: 1.3em;
+    outline-style: groove;
+}
+
+h2 {
+    margin-left: 50px;
+    font-size: 1.7em;
+}
+
+h3 {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.country {
+    margin-top: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.aze {
+    position: relative;
+    left: 100px;
+}
+
+.turk {
+    position: relative;
+    left: 920px;
+}
+
+.azba {
+    position: absolute;
+    width: 566px;
+    height: 320px;
+    left: -4px;
+}
+
+.azba:hover {
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.azba:hover {
+    border: 1px solid gold;
+}
+
+.az {
+    position: relative;
+    padding-top: 20px;
+    left: -22px;
+    color: white;
+    font-size: 2em;
+}
+
+.trba {
+    position: absolute;
+    right: 25px;
+    width: 566px;
+    height: 320px;
+}
+
+.trba:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.tr {
+    position: relative;
+    left: -480px;
+    padding-top: 20px;
+    color: white;
+}
+
+.country2 {
+    margin-top: 250px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.fransa {
+    position: absolute;
+    left: 49px;
+}
+
+.fra {
+    position: relative;
+    width: 374px;
+    height: 270px;
+    margin-left: 55px;
+}
+
+.fra:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.fr {
+    position: relative;
+    top: -265px;
+    left: 30px;
+    color: white;
+}
+
+.ingiltere {
+    position: relative;
+    left: 487px;
+
+}
+
+.in {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.in:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.ing {
+    position: relative;
+    color: white;
+    left: -18px;
+}
+
+.italy {
+    position: relative;
+    top: -99px;
+    margin-left: 879px;
+}
+
+.it {
+    position: absolute;
+    width: 374px;
+    height: 270px;
+}
+
+.it:hover {
+    border: 1px solid gold;
+    transform: scale(1.02);
+    transition: all 1s;
+}
+
+.itali {
+    position: relative;
+    color: white;
+    top: 22px;
+    left: -22px;
+
+}
+
+
+.qiteler {
+    width: 70%;
+    height: 100px;
+    margin-top: 165px;
+    display: flex;
+}
+
+.orta {
+    padding: 0px 34.02px 0px 10.05px;
+    font-size: 1.2em;
+    color: #201c1c;
+
+}
+
+.h3 {
+    margin-bottom: 50px;
+
+}
+
+h3:active {
+    border-bottom: 1px solid blue;
+}
+
+.avr {
+    padding: 0px 30px 0px 10px;
+}
+
+.seherlerbir {
+    display: flex;
+    position: relative;
+    top: -15px;
+    margin-bottom: 250px;
+}
+
+.london {
+    position: relative;
+    top: 50px;
+    margin-left: 98px;
+}
+
+.lon {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.lon:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lond {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.istanbul {
+    position: relative;
+    top: 50px;
+    margin-left: 215px;
+}
+
+.ist {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.is {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.ist:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.paris {
+    position: relative;
+    top: 50px;
+    margin-left: 210px;
+}
+
+.par {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pa {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.par:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.hamburg {
+    position: relative;
+    top: 50px;
+    margin-left: 242px;
+}
+
+.ham {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.ha {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.ham:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.seherleriki {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.amsterdam {
+    position: relative;
+    top: 50px;
+    margin-left: 240px;
+}
+
+.amster {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.amster:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ams {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.lissabon {
+    position: relative;
+    top: 50px;
+    margin-left: 175px;
+}
+
+.lissa {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.lissa:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lis {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.roma {
+    position: relative;
+    top: 50px;
+    margin-left: 205px;
+}
+
+.rom {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.rom:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ro {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.afina {
+    position: relative;
+    top: 50px;
+    margin-left: 237px;
+}
+
+.afi {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.afi:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.af {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleruc {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.berlin {
+    position: relative;
+    top: -28px;
+    margin-left: 237px;
+}
+
+.ber {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.ber:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.be {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.barselona {
+    position: relative;
+    top: -28px;
+    margin-left: 235px;
+}
+
+.barsa {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.barsa:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bars {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.venesiya {
+    position: relative;
+    top: -28px;
+    margin-left: 192px;
+}
+
+.vene {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.vene:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ven {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.malaga {
+    position: relative;
+    top: -28px;
+    margin-left: 207px;
+}
+
+.malag {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.malag:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ma {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerdord {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.vienna {
+    position: relative;
+    top: -95px;
+    margin-left: 234px;
+}
+
+.vien {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.vien:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.vie {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.porto {
+    position: relative;
+    top: -95px;
+    margin-left: 230px;
+}
+
+.port {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.port:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.por {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.stockholm {
+    position: relative;
+    top: -95px;
+    margin-left: 239px;
+}
+
+.stock {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.stock:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.stoc {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.monte-carlo {
+    position: relative;
+    top: -95px;
+    margin-left: 190px;
+}
+
+.mont {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.mont:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mon {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherlerbes {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.madrid {
+    position: relative;
+    top: -165px;
+    margin-left: 234px;
+}
+
+.madr {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.madr:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mad {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.armakao {
+    position: relative;
+    top: -165px;
+    margin-left: 220px;
+}
+
+.arma {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.arma:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.arm {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.sevilya {
+    position: relative;
+    top: -165px;
+    margin-left: 120px;
+}
+
+.sevily {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.sevily:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sevi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.krakov {
+    position: relative;
+    top: -165px;
+    margin-left: 227px;
+}
+
+.krak {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.krak:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kra {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.seherleralti {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.neapol {
+    position: relative;
+    top: -230px;
+    margin-left: 230px;
+}
+
+.neap {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.neap:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.nea {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.kordoba {
+    position: relative;
+    top: -230px;
+    margin-left: 232px;
+}
+
+.kordob {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kordob:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.milan {
+    position: relative;
+    top: -230px;
+    margin-left: 209px;
+}
+
+.mila {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.mila:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mil {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.faro {
+    position: relative;
+    top: -230px;
+    margin-left: 240px;
+}
+
+.far {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.far:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.faa {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+
+}
+
+.seherleryeddi {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.liverpul {
+    position: relative;
+    top: -300px;
+    margin-left: 225px;
+}
+
+.liverp {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.liverp:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.liver {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.turin {
+    position: relative;
+    top: -300px;
+    margin-left: 215px;
+}
+
+.turi {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.turi:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.tur {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.munich {
+    position: relative;
+    top: -300px;
+    margin-left: 245px;
+}
+
+.munic {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.munic:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.muni {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.florence {
+    position: relative;
+    top: -300px;
+    margin-left: 235px;
+}
+
+.floren {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.floren:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.flor {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+
+}
+
+.seherlersekkiz {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.bologna {
+    position: relative;
+    top: -370px;
+    margin-left: 225px;
+}
+
+.bolog {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bolog:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bolo {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.gothenburq {
+    position: relative;
+    top: -370px;
+    margin-left: 215px;
+}
+
+.gothen {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.gothen:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.goth {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.budapest {
+    position: relative;
+    top: -370px;
+    margin-left: 208px;
+}
+
+.budap {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.budap:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.buda {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.granada {
+    position: relative;
+    top: -370px;
+    margin-left: 205px;
+}
+
+.gran {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.gran:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.gra {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherlerdoqquz {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.marseille {
+    position: relative;
+    top: -440px;
+    margin-left: 223px;
+}
+
+.marseil {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.marseil:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.marse {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.praga {
+    position: relative;
+    top: -440px;
+    margin-left: 235px;
+}
+
+.prag {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.prag:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pra {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.verona {
+    position: relative;
+    top: -440px;
+    margin-left: 243px;
+}
+
+.veron {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.veron:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.vero {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.ljubljana {
+    position: relative;
+    top: -440px;
+    margin-left: 230px;
+}
+
+.ljub {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.ljub:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lju {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleron {
+    display: flex;
+    position: relative;
+    top: -100px;
+    left: -145px;
+    margin-bottom: 250px;
+}
+
+.innsbruck {
+    position: relative;
+    top: -510px;
+    margin-left: 220px;
+}
+
+.insbr {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.insbr:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.insb {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.tromso {
+    position: relative;
+    top: -510px;
+    margin-left: 225px;
+}
+
+.troms {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.troms:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.trom {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.valencia {
+    position: relative;
+    top: -510px;
+    margin-left: 230px;
+}
+
+.valenc {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.valenc:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.valen {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.hague {
+    position: relative;
+    top: -510px;
+    margin-left: 210px;
+}
+
+.hagu {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.hagu:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.hag {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronbir {
+    display: flex;
+    position: relative;
+    top: -160px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.zürich {
+    position: relative;
+    top: -510px;
+    margin-left: 220px;
+}
+
+.züri {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.züri:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.zür {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.pompei {
+    position: relative;
+    top: -510px;
+    margin-left: 255px;
+}
+
+.pompe {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pompe:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pomp {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.pisa {
+    position: relative;
+    top: -510px;
+    margin-left: 230px;
+}
+
+.pis {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pis:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.lyon {
+    position: relative;
+    top: -510px;
+    margin-left: 265px;
+}
+
+.lyo {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.lyo:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ly {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleroniki {
+    display: flex;
+    position: relative;
+    top: -215px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.sorrento {
+    position: relative;
+    top: -510px;
+    margin-left: 220px;
+}
+
+.sorren {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.sorren:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.copenhagen {
+    position: relative;
+    top: -510px;
+    margin-left: 220px;
+}
+
+.cophag {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.cophag:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.cop {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.palermo {
+    position: relative;
+    top: -510px;
+    margin-left: 185px;
+}
+
+.paler {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.paler:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pal {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.warsaw {
+    position: relative;
+    top: -510px;
+    margin-left: 225px;
+
+}
+
+.wars {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.wars:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.war {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronuc {
+    display: flex;
+    position: relative;
+    top: -215px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.oslo {
+    position: relative;
+    top: -550px;
+    margin-left: 220px;
+}
+
+.osl {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.osl:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.os {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.zadar {
+    position: relative;
+    top: -550px;
+    margin-left: 262px;
+}
+
+.zada {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.zada:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.za {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.bratislava {
+    position: relative;
+    top: -550px;
+    margin-left: 250px;
+}
+
+.bratis {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bratis:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.br {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.zagreb {
+    position: relative;
+    top: -550px;
+    margin-left: 210px;
+
+}
+
+.zagr {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.zagr:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.zag {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherlerondord {
+    display: flex;
+    position: relative;
+    top: -260px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.split {
+    position: relative;
+    top: -550px;
+    margin-left: 220px;
+}
+
+.spli {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.spli:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.spi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.tallinn {
+    position: relative;
+    top: -550px;
+    margin-left: 262px;
+}
+
+.talli {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.talli:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.tal {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.modena{
+    position: relative;
+    top: -550px;
+    margin-left: 240px;
+}
+
+.moden {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.moden:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mode {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.stavanger {
+    position: relative;
+    top: -550px;
+    margin-left: 230px;
+
+}
+
+.stav {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.stav:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sta {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronbes {
+    display: flex;
+    position: relative;
+    top: -300px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.nice {
+    position: relative;
+    top: -550px;
+    margin-left: 215px;
+}
+
+.nic {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.nic:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ni {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.helsinki{
+    position: relative;
+    top: -550px;
+    margin-left: 265px;
+}
+
+.hels{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.hels:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.hel {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.edinburgh{
+    position: relative;
+    top: -550px;
+    margin-left: 225px;
+}
+
+.edin {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.edin:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.edi {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.geneva{
+    position: relative;
+    top: -550px;
+    margin-left: 200px;
+
+}
+
+.gena {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.gena:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.gen {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronalti {
+    display: flex;
+    position: relative;
+    top: -340px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.koper{
+    position: relative;
+    top: -550px;
+    margin-left: 212px;
+}
+
+.kope {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kope:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kop {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.lagos{
+    position: relative;
+    top: -550px;
+    margin-left: 247px;
+}
+
+.lago{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.lago:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lag {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.san-sebastian{
+    position: relative;
+    top: -550px;
+    margin-left: 250px;
+}
+
+.san-seba {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.san-seba:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.san {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.cannes{
+    position: relative;
+    top: -550px;
+    margin-left: 170px;
+
+}
+
+.canne {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.canne:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.can {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronyeddi {
+    display: flex;
+    position: relative;
+    top: -380px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.dubrovnik{
+    position: relative;
+    top: -550px;
+    margin-left: 212px;
+}
+
+.dubrov{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.dubrov:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.dubr {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.kluj-napoka{
+    position: relative;
+    top: -550px;
+    margin-left: 200px;
+}
+
+.kluj{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kluj:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.klu {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.sibiu{
+    position: relative;
+    top: -550px;
+    margin-left: 170px;
+}
+
+.sibi {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.sibi:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sib {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.brasov{
+    position: relative;
+    top: -550px;
+    margin-left: 260px;
+
+}
+.bras{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bras:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bra {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleronsekkiz {
+    display: flex;
+    position: relative;
+    top: -390px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.bonn{
+    position: relative;
+    top: -580px;
+    margin-left: 208px;
+}
+
+.bon{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bon:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bo {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.sintra{
+    position: relative;
+    top: -580px;
+    margin-left: 260px;
+}
+
+.sint{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.sint:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sin {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.tarragona{
+    position: relative;
+    top: -580px;
+    margin-left: 250px;
+}
+
+.tarra {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.tarra:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.tar {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.sofia{
+    position: relative;
+    top: -580px;
+    margin-left: 210px;
+
+}
+.sofi{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.sofi:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sof {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherlerondoqquz {
+    display: flex;
+    position: relative;
+    top: -415px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.malmo{
+    position: relative;
+    top: -580px;
+    margin-left: 205px;
+}
+
+.malm{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.malm:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mal {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.bucharest{
+    position: relative;
+    top: -580px;
+    margin-left: 245px;
+}
+
+.buch{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.buch:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.buc {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.corfu{
+    position: relative;
+    top: -580px;
+    margin-left: 210px;
+}
+
+.corf {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.corf:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.cor{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.mostar{
+    position: relative;
+    top: -580px;
+    margin-left: 195px;
+
+}
+.most{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.most:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.mos {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmi {
+    display: flex;
+    position: relative;
+    top: -445px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.pamplona{
+    position: relative;
+    top: -580px;
+    margin-left: 205px;
+}
+
+.pamp{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pamp:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pam {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.dijon{
+    position: relative;
+    top: -580px;
+    margin-left: 215px;
+}
+
+.dijo{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.dijo:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.dij {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.zaragoza{
+    position: relative;
+    top: -580px;
+    margin-left: 260px;
+}
+
+.zara {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.zara:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.zar{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.rhodes{
+    position: relative;
+    top: -580px;
+    margin-left: 217px;
+
+}
+.rhod{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.rhod:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.rho {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmibir {
+    display: flex;
+    position: relative;
+    top: -465px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.siena{
+    position: relative;
+    top: -580px;
+    margin-left: 205px;
+}
+
+.siea{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.siea:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.sie {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.bovec{
+    position: relative;
+    top: -580px;
+    margin-left: 265px;
+}
+
+.bove{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.bove:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.bov {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.ohrid{
+    position: relative;
+    top: -580px;
+    margin-left: 255px;
+}
+
+.ohri {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.ohri:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ohr{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.rotterdam{
+    position: relative;
+    top: -580px;
+    margin-left: 252px;
+
+}
+.rotter{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.rotter:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.rot {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmiiki {
+    display: flex;
+    position: relative;
+    top: -465px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.torun{
+    position: relative;
+    top: -600px;
+    margin-left: 205px;
+}
+
+.toru{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.toru:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.tor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.denia{
+    position: relative;
+    top: -600px;
+    margin-left: 255px;
+}
+
+.deni{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.deni:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.den {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.potsdam{
+    position: relative;
+    top: -600px;
+    margin-left: 260px;
+}
+
+.pots {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pots:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.pot{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.oxford{
+    position: relative;
+    top: -600px;
+    margin-left: 230px;
+
+}
+.oxfo{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.oxfo:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.oxf {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmiuc {
+    display: flex;
+    position: relative;
+    top: -485px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.korcula{
+    position: relative;
+    top: -600px;
+    margin-left: 205px;
+}
+
+.korc{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.korc:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kor {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.antwerp{
+    position: relative;
+    top: -600px;
+    margin-left: 235px;
+}
+
+.antw{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.antw:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ant {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.luxembourg{
+    position: relative;
+    top: -600px;
+    margin-left: 230px;
+}
+
+.luxe {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.luxe:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.lux{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.genoa{
+    position: relative;
+    top: -600px;
+    margin-left: 180px;
+
+}
+.geno{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.geno:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.gen {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmidord {
+    display: flex;
+    position: relative;
+    top: -500px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.konstanz{
+    position: relative;
+    top: -600px;
+    margin-left: 210px;
+}
+
+.kons{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.kons:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.kon {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.plovdiv{
+    position: relative;
+    top: -600px;
+    margin-left: 220px;
+}
+
+.plovd{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.plovd:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.plo {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.aveiro{
+    position: relative;
+    top: -600px;
+    margin-left: 237px;
+}
+
+.avei {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.avei:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.ave{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.vikkk{
+    position: relative;
+    top: -600px;
+    margin-left: 245px;
+
+}
+.vikk{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.vikk:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.vik {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
+.seherleriyirmibes {
+    display: flex;
+    position: relative;
+    top: -500px;
+    left: -140px;
+    margin-bottom: 250px;
+}
+
+.poznan{
+    position: relative;
+    top: -600px;
+    margin-left: 210px;
+}
+
+.pozn{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.pozn:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.poz {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.garda{
+    position: relative;
+    top: -600px;
+    margin-left: 245px;
+}
+
+.gard{
+    position: absolute;
+    width: 272px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.gard:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.gar {
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.perugia{
+    position: relative;
+    top: -600px;
+    margin-left: 250px;
+}
+
+.peru {
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+
+.peru:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+
+.per{
+    position: relative;
+    top: 100px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+.frankfurt{
+    position: relative;
+    top: -600px;
+    margin-left: 230px;
+}
+.frank{
+    position: absolute;
+    width: 270px;
+    height: 180px;
+    border-radius: 5%;
+}
+.frank:hover {
+    transform: scale(1.05);
+    transition: all 1s;
+}
+.fran {
+    position: relative;
+    top: 95px;
+    left: 22px;
+    color: white;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+    font-size: 1.8em;
+}
+
